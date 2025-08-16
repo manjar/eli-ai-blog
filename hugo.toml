@@ -1,5 +1,5 @@
 baseURL = "https://manjar.github.io/eli-ai-blog/"
-canonifyURLs = true
+canonifyURLs = false
 title = "Eli’s AI Journey"
 languageCode = 'en-us'
 theme = "PaperMod"
@@ -24,13 +24,14 @@ minify = true
 
 [menu]
   [[menu.main]]
-    name = "Posts"
-    url = "/"
-    weight = 1
+  name = "Posts"
+  url  = "posts/"
+  weight = 1
+
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+  name = "About"
+  url  = "about/"
+  weight = 2
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in posts (handy for embeds)
