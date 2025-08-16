@@ -1,4 +1,4 @@
-baseURL = "https://manjar.github.io/"
+baseURL = "https://manjar.github.io/eli-ai-blog/"
 title = "Eli’s AI Journey"
 languageCode = 'en-us'
 theme = "PaperMod"
