@@ -1,5 +1,4 @@
 baseURL = "https://manjar.github.io/eli-ai-blog/"
-relativeURLs = true
 canonifyURLs = true
 title = "Eli’s AI Journey"
 languageCode = 'en-us'

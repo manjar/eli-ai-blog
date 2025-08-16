@@ -1,0 +1,32 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Emacs autosave/backup files
+*~
+\#*\#
+.\#*
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Node (if you add tooling later)
+node_modules/
+
+# Python (if you use scripts)
+__pycache__/
+*.pyc
