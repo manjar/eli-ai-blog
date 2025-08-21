@@ -6,8 +6,8 @@ tags: ["zettlr", "hugo", "papermod"]
 categories: ["blog"]
 ---
 
-# Dev notes on Apple Foundation Models
-The following are some notes on Apple Foundation models. I'm using the Apple on-device models for my logical fallacy detector app.
+# Dev notes on Apple Foundation Models in "Fallacy Detector"
+The following are some notes on Apple Foundation models. I'm using the Apple on-device models for my logical fallacy detector app. I'm starting with some background, so if you're eager to get to the discussion of the models you should jump to "Quick app overview" or "First attempts using APIs".
 
 ## My history with logical fallacies
 Logical fallacies have been an area of interest of mine for many years. This was probably initially due to losing a lot of arguments, often in ways where it seemed that it wasn't facts or logic that won. And probably also due to 'winning' some arguments on the same basis.  I wanted to understand the various devices people used - consciously or unconsciously - to prevail in contentious discussions, often without really moving the conversation or understanding forward.
@@ -21,7 +21,7 @@ A quick shout out: on my learning path I found useful resources at [School of Th
 ## There oughtta be an app for that
 Enter my new app, Fallacy Detector. It originally started  the first time I sat down to try "vibe coding" which I'd heard so much about. Grasping for an idea to implement, my first thought was to create an app to detect fallacies. In the spirit of vibe coding, I of course went with that thought.
 
-A couple hours later I had a jumble of code that compiled and ran, kinda sorta. It was clearly a dead-end mess that I couldn't wait to abandon. But it worked just well enough to convince me that I actually wanted to develop a "real" (is that the right opposite of "vibe"?) fallacies app. So I set about to do that.
+A couple hours later I had a jumble of code that compiled and ran, kinda sorta. It was clearly a dead-end mess, and I couldn't wait to abandon it. But it worked just well enough to convince me that I actually wanted to develop a "real" (is that the right opposite of "vibe"?) fallacies app. So I set about to do that.
 
 ## Quick app overview
 For the sake of discussion, let me briefly describe the intent of the app. (Though if you want to cut to the chase and become a [beta tester](https://testflight.apple.com/join/E7XdSWJW), please do that!)
