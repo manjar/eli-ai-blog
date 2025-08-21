@@ -6,7 +6,7 @@ tags: ["zettlr", "hugo", "papermod"]
 categories: ["blog"]
 ---
 
-# Dev notes on Apple Foundation Models in "Fallacy Detector"
+# Notes on using Apple Foundation Models in my "Fallacy Detector" app
 The following are some notes on Apple Foundation models. I'm using the Apple on-device models for my logical fallacy detector app. I'm starting with some background, so if you're eager to get to the discussion of the models you should jump to "Quick app overview" or "First attempts using APIs".
 
 ## My history with logical fallacies
