@@ -7,10 +7,10 @@ categories: ["blog"]
 ---
 
 # Notes on using Apple Foundation Models in my "Fallacy Detector" app
-The following are some notes on Apple Foundation models. I'm using the Apple on-device models for my logical fallacy detector app. I'm starting with some background, so if you're eager to get to the discussion of the models you should jump to "Quick app overview" or "First attempts using APIs".
+The following are some notes on Apple Foundation models. Since I'm using the Apple on-device models for my logical fallacy detector app, I'm starting with some background that led to its development. If you're eager to get to the discussion of the models you should jump to "Quick app overview" or "First attempts using APIs".
 
 ## My history with logical fallacies
-Logical fallacies have been an area of interest of mine for many years. This was initially due to losing a lot of arguments, often in ways where it didn't seem that facts or logic carried the day, and probably also due to 'winning' some arguments in a similar manner.  I wanted to understand the various devices people used - consciously or unconsciously - to prevail in contentious discussions, often without really moving the conversation or understanding forward.
+I've been interested in logical fallcies for many years. This was initially due to losing a lot of arguments, often in ways where it didn't seem like facts or logic carried the day, and probably also due to 'winning' some arguments in a similar manner.  I wanted to understand the various devices people used - consciously or unconsciously - to prevail in contentious discussions, often without really moving the conversation or understanding forward.
 
 I do believe that most of us, most of the time, are sincerely seeking the truth, ideally some kind of shared truth. And many of us, myself definitely included, struggle with staying true to that search at least some of the time. I am optimistic that learning about logical fallacies, and other deeply studied and well-documented areas of human communication, can help us improve as a society.
 
