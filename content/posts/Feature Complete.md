@@ -5,7 +5,7 @@ draft: false
 tags: ["zettlr", "hugo", "papermod"]
 categories: ["blog"]
 ---
-
+![Can't get there from here](SudburyMA_Milestone25.jpg)
 # Feature Complete, and other milestones
 Today, after adding a share handler to the app, I decided that I'm "feature complete" for my 1.0! Why did I do that?
 
