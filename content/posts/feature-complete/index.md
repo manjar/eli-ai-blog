@@ -1,11 +1,15 @@
 ---
 title: "Feature Complete...?"
+cover:
+  image: "SudburyMA_Milestone25.jpg"
+  alt: "Milestone"
+  caption: "Can't get there from here"
+  relative: true
 date: 2025-08-25T12:46:52-07:00
 draft: false
 tags: ["zettlr", "hugo", "papermod"]
 categories: ["blog"]
 ---
-![Can't get there from here](SudburyMA_Milestone25.jpg "Can't get there from here")
 # Feature Complete, and other milestones
 Today, after adding a share handler to the app, I decided that I'm "feature complete" for my 1.0! Why did I do that?
 
