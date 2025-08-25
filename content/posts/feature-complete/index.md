@@ -26,9 +26,9 @@ Hey - great question! I just made a case that milestones are about communication
 
 ## Why now?
 I believe I've reached minimum viable product for the personas I've been channeling during development, which I might as well document here:
-* a student involved in speech or debate club, who either wants to hold a lens up to a transcript of a prior debate to identify tactics.
-* a skeptical consumer of news who is trying to assess the credibility of a source.
-* a terminally-online person who falls prey to the forgivable but tragic compulsion to engage in comment-section arguments.
+* a student involved in speech or debate club, who wants to hold a lens up to a transcript of a prior debate either to defend against those tactics or to make better-informed decisions about when or whether to use them
+* a skeptical consumer of news or other information who is trying to assess the credibility of a source.
+* a terminally-online person who falls prey to the forgivable-but-tragic compulsion to engage in comment-section arguments.
 (I won't say which of these apply to me, though it's clearly not the first one.)
 
 I strongly believe that the main theme of a 1.0 is "guessing what users want, even if they don't know it yet." With any luck, your guesses are educated enough to attract some actual users. And once you've gotten to that point, guessing takes a back seat to gathering feedback and learning how people actually perceive and employ this thing you've made. If that doesn't sound enticing, you could also tell yourself that since this thing is so useful, it's better to get it into users' hands now than make them wait. For an edgier take, you might remind yourself of the arrogance of continuing to think that your guessing is better than your users' actual experiencing. Hopefully one of these takes convinces you. Ship it.
