@@ -1,6 +1,6 @@
 ---
 title: "Feature Complete... ?"
-date: 2025-08-25T15:00:00-07:00
+date: 2025-08-25T12:46:52-07:00
 draft: false
 tags: ["zettlr", "hugo", "papermod"]
 categories: ["blog"]
