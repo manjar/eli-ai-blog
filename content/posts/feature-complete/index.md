@@ -7,7 +7,7 @@ cover:
   relative: true
 date: 2025-08-25T12:46:52-07:00
 draft: false
-tags: ["zettlr", "hugo", "papermod"]
+tags: ["fallacy detector", "milestones"]
 categories: ["blog"]
 ---
 # Feature Complete, and other milestones

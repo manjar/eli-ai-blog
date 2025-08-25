@@ -2,7 +2,7 @@
 title: "Development log: using Apple Foundation Models"
 date: 2025-08-20T15:00:00-07:00
 draft: false
-tags: ["zettlr", "hugo", "papermod"]
+tags: ["AFM", "fallacy detector", "llm"]
 categories: ["blog"]
 ---
 
