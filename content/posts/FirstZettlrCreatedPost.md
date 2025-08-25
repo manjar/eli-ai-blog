@@ -19,7 +19,7 @@ Back to the story, over the years I have found various places to get information
 A quick shout-out: on my learning path I found useful resources at [School of Thought](https://www.schoolofthought.org, ). They seem very committed to promoting understanding of these topics. And [Wikipedia](https://en.wikipedia.org/wiki/List_of_fallacies) has an extensive list of fallacies if you want to check that out.
 
 ## There oughtta be an app for that
-Enter my new app, Fallacy Detector. It originally started the first time I sat down to try "vibe coding" which I'd heard so much about. Grasping for an idea to implement, my first thought was to create an app to detect fallacies. In the spirit of vibe coding, I went with that thought.
+Enter my new app, Fallacy Detector (final name TBD). It originally started the first time I sat down to try "vibe coding" which I'd heard so much about. Grasping for an idea to implement, my first thought was to create an app to detect fallacies. In the spirit of vibe coding, I went with that thought.
 
 A couple of hours later I had a jumble of code that compiled and ran. It was a dead-end mess that I couldn't wait to abandon. But it worked just well enough to convince me that I actually wanted to develop a "real" (is that the right opposite of "vibe"?) fallacies app. So I set about to do that.
 
