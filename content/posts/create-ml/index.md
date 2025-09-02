@@ -13,7 +13,7 @@ draft: false
 It's amazing and exciting that anyone with a computer can build and train an ML model. That said, it's reminiscent of using Core Audio a decade or two ago - quite a lot of overhead just to get to "Hello, world!", especially if you're somewhat new to the process. Enter Create ML, Apple's answer to machine learning for the masses… at least the masses with a basic understanding of machine learning.
 
 ## Foundation models are great...
-As I've written elsewhere in this blog, my current main focus is an app for identifying logical fallacies in text passages, and learning what to do about them. The app is currently in [beta via TestFlight](https://testflight.apple.com/join/E7XdSWJW). Please join! I'm eager to get your feedback.
+As I've written elsewhere in this blog, my current main focus is an app for identifying logical fallacies in text passages, and learning what to do about them. **The app is currently in [beta via TestFlight](https://testflight.apple.com/join/E7XdSWJW). Please join! I'm eager to get your feedback.**
 
 The heavy lifting is being done by Apple Foundation Models (AFM) which will ship for the first time in iOS 26 (still in beta at the time of this writing). AFM creates some amazing possibilities that were hitherto either impossible or impractical. What is the intersection of all these constraints, and did it even exist prior to AFM?
 
