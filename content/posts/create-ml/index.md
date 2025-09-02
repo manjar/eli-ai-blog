@@ -5,11 +5,11 @@ tags: ["Create ML", "ai", "learning", "machine learning", "Core ML"]
 draft: false
 ---
 
-# Create ML - A Very Appl-y ML App
-It's amazing and exciting that anyone with a computer can build and train an ML model. That said, it's reminiscent of using Core Audio a decade or two ago - quite a lot of overhead just to get to "Hello, world!", especially if you're somewhat new to the process. Enter Create ML, Apple's answer to machine learning for the masses.
+# Create ML: An Apple-y approach to ML
+It's amazing and exciting that anyone with a computer can build and train an ML model. That said, it's reminiscent of using Core Audio a decade or two ago - quite a lot of overhead just to get to "Hello, world!", especially if you're somewhat new to the process. Enter Create ML, Apple's answer to machine learning for the masses… at least the masses with a basic understanding of machine learning.
 
 ## Foundation models are great...
-As I've written elsewhere in this blog, my current "main" project is an app for identifying logical fallacies in text passages, and learning what to do about them. The "heavy lifting" is being done by Apple Foundation Models (AFM) which will ship for the first time in iOS 26 (still in beta at the time of this writing). AFM creates some amazing possibilities that were hitherto either impossible or impractical. What is the intersection of all these constraints, and did it even exist prior to AFM?
+As I've written elsewhere in this blog, my current main focus is an app for identifying logical fallacies in text passages, and learning what to do about them. The heavy lifting is being done by Apple Foundation Models (AFM) which will ship for the first time in iOS 26 (still in beta at the time of this writing). AFM creates some amazing possibilities that were hitherto either impossible or impractical. What is the intersection of all these constraints, and did it even exist prior to AFM?
 
 * "Real" LLM
 * Fast enough for many purposes
@@ -48,6 +48,6 @@ Even given the constraints that enable this simplicity, and the departure from A
 tl;dr: AFM is great. Core ML is also great, especially if your use case is addressed by Create ML
 
 ## Random findings
-* ChatGPT is an excellent sidekick when putting together a training data generation, augmentation, and post-processing pipeline
+* ChatGPT is an excellent sidekick when putting together a pipeline for the generation, augmentation, and post-processing of training data
 * BERT models don't seem to work in the Simulator, as they don't find their embeddings (they work great on device, though)
 * Fun fact: the amount of time it took to _train_ the Max Entropy version of the classification model was comparable to the amount of time it took to run classification inference via AFM
